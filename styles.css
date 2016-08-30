@@ -58,7 +58,7 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('images/cambridge_bay_winter.jpg') no-repeat top center ;
+  background: url('images/hoth.jpg') no-repeat top center ;
   background-size: cover;
   background-position: center;
   overflow: hidden;
@@ -172,7 +172,7 @@ a.social:hover {
 .stretch {
   width:100%;
   min-height: 200px;
-  background-image: url('images/synthwave.jpg');
+  background-image: url('images/synthwave.png');
   color: #efefef;
 }
 

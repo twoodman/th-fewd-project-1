@@ -11,6 +11,3 @@ To Run:
 
 Or:
 - http://twoodman.github.io/th-fewd-project-1
-
-
-*Un-minified files included in respective folders.*
